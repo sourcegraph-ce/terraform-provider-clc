@@ -2,7 +2,7 @@ package clc
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strings"
 
 	clc "github.com/CenturyLinkCloud/clc-sdk"
